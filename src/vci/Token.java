@@ -30,6 +30,9 @@ public enum Token {
     LogicoOR(-72, -1, 10),
     Negacion(-73, -1, 30),
     Comentario(-80, -1),
+    Then(-85, -1),
+    Else(-90, -1),
+    End(-95, -1),
     ERROR(-100, -1);
 
 

@@ -1,6 +1,4 @@
-x = 14;
-if (x < 20) then
-    begin
-        write(x);
-    end
+x = 14 ; 
+if ( x < 20 ) then 
+write ( x ) ;  
 end
